@@ -3,40 +3,40 @@
     "m_SelectedPackage": {
         "deviceId": "RFCN20HFR3W",
         "name": "com.com.mochan.AutomationCarWithBCore4",
-        "processId": 17363,
-        "exited": false
+        "processId": 18057,
+        "exited": true
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 32714,
-            "exited": false
+            "processId": 12641,
+            "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 4126,
-            "exited": false
+            "processId": 14505,
+            "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 11407,
-            "exited": false
+            "processId": 15483,
+            "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 12660,
-            "exited": false
+            "processId": 16889,
+            "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 17363,
-            "exited": false
+            "processId": 18057,
+            "exited": true
         }
     ],
     "m_Tags": {
@@ -47,7 +47,7 @@
             },
             {
                 "m_Name": "No Filter",
-                "m_Selected": true
+                "m_Selected": false
             },
             {
                 "m_Name": "",
@@ -63,7 +63,7 @@
             },
             {
                 "m_Name": "Unity",
-                "m_Selected": false
+                "m_Selected": true
             },
             {
                 "m_Name": "CRASH",
@@ -72,7 +72,7 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 300.0,
+        "MemoryWindowHeight": 317.0,
         "MemoryWindowWidth": 170.0,
         "MemoryTypeEnabled": [
             true,
