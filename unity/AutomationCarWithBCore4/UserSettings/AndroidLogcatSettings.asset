@@ -3,40 +3,460 @@
     "m_SelectedPackage": {
         "deviceId": "RFCN20HFR3W",
         "name": "com.com.mochan.AutomationCarWithBCore4",
-        "processId": 18057,
-        "exited": true
+        "processId": 17276,
+        "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 12641,
+            "processId": 25605,
             "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 14505,
+            "processId": 27737,
             "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 15483,
+            "processId": 3709,
             "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 16889,
+            "processId": 6106,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 7563,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 11580,
             "exited": true
         },
         {
             "deviceId": "RFCN20HFR3W",
             "name": "com.com.mochan.AutomationCarWithBCore4",
-            "processId": 18057,
-            "exited": true
+            "processId": 24759,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 26261,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 29502,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 13124,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 15166,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 18018,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 18975,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 20430,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 21604,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 22329,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 23303,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 11346,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 12695,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 13872,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 15029,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 16163,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 17726,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 22464,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 23502,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 25667,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 27316,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 28049,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 30198,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 6430,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 8704,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 11273,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 12554,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 13744,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 14423,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 16073,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 17814,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 22000,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 26038,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 26761,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 27907,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 31530,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 2283,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 2638,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 3417,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 4128,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 10088,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 11876,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 19245,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 22003,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 22849,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 25030,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 26270,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 27414,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 29175,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 29854,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 31016,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 31912,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 889,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 2344,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 4170,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 8404,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 10604,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 13329,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 14500,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 17171,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 25342,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 25719,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 27669,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 28317,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 31925,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 11080,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 14882,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 16811,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN20HFR3W",
+            "name": "com.com.mochan.AutomationCarWithBCore4",
+            "processId": 17276,
+            "exited": false
         }
     ],
     "m_Tags": {
@@ -72,7 +492,7 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 317.0,
+        "MemoryWindowHeight": 255.0,
         "MemoryWindowWidth": 170.0,
         "MemoryTypeEnabled": [
             true,

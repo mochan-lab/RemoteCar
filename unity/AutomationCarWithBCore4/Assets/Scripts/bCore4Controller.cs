@@ -19,6 +19,8 @@ public class bCore4Controller : MonoBehaviour
     private string status;
     private int gotChara = 0;
 
+    private sbyte[] command = new sbyte[]{0, 0, -127, 0, 0, 0, 0};
+
     // Start is called before the first frame update
     void Start()
     {
@@ -75,27 +77,45 @@ public class bCore4Controller : MonoBehaviour
     }
 
     public IEnumerator AlterBurst(){
-        sbyte[] command = new sbyte[]{0, 0, -128, 0, 0, 0, 0};
+        
         while(true){
             androidbCore4.Call("getBatteryVoltage");
-            yield return new WaitForSeconds(0.5f);
-            if(command[2] == -128){
-                command[2] = -127;
-            }else if(command[2] == -127){
-                command[2] = -126;
-            }else if(command[2] == -126){
-                command[2] = -124;
-            }else if(command[2] == -124){
-                command[2] = -127;
-            }
+            yield return new WaitForSeconds(0.1f);
             BurstCommand(command);
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(0.1f);
         }
     }
 
     public void BurstCommand(sbyte[] command){
-        // byte[] bytes = new byte[]{0x80, 0x80, 0x00, 0x80, 0x80, 0x80, 0x80};
         androidbCore4.Call("burstCommand", command);
+    }
+
+    public void Led1Switch(){
+        if (command[2] == -128){
+            command[2] = -127;
+        } else if(command[2] == -127){
+            command[2] = -128;
+        }
+    }
+
+    public void Move2Motors(Vector2 motors){
+        // float m0=0f;
+        // if(motors[0]>=0){
+        //     m0=127-(motors[0]*127);
+        // }else if(motors[0]<0){
+        //     m0=-128-(motors[0]*127);
+        // }
+        // command[0] = System.Convert.ToSByte((int)m0);
+        command[0] = System.Convert.ToSByte((int)motors[0]);
+        // float m1=0f;
+        // if(motors[1]>=0){
+        //     m1=127-(motors[1]*127);
+        // }else if(motors[1]<0){
+        //     m1=-128-(motors[1]*127);
+        // }
+        // command[1] = System.Convert.ToSByte((int)m1);
+        command[1] = System.Convert.ToSByte((int)motors[1]);
+        
     }
 
     /// <summary>
